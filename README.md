@@ -1,0 +1,2 @@
+# -AI-Powered-Waste-Sorting-Real-Time-Cost-Effective-Smart-Waste-Detection-and-Sorting-System
+This project presents a smart, AI-integrated waste management system designed to automate the detection, classification, and sorting of household and industrial waste in real-time. Utilizing an ESP32-CAM module, the system captures live images of waste materials as they are deposited into the bin into dry, metal and biomedical waste. 
